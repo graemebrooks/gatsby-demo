@@ -8,7 +8,7 @@ const ContactPage = () => {
 			<h1>Contact Details</h1>
 			<p>
 				The best way to contact me is via my{' '}
-				<a href="https://www.linkedin.com/in/graeme-kelso-brooks/" target="_blank">
+				<a href="https://www.linkedin.com/in/graeme-kelso-brooks/" target="_blank" rel="noopener noreferrer">
 					Linkedin
 				</a>
 			</p>
